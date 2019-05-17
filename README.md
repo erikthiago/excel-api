@@ -4,8 +4,6 @@ Projeto responsável por receber um arquivo excel e fazer a leitura
 ## Artigo de referência
  * [Medium](https://medium.com/@erikthiago/gerador-de-pdf-no-asp-net-core-e494650eb3c9) - Artigo que explica em detalhes o código do projeto
  
-Nuget Server privado.
- 
 ## Referências:
 * [Exemplo de como fazer a leitura de um arquivo excel com a lib EPPlus.Core](https://www.c-sharpcorner.com/article/import-and-export-data-using-epplus-core/) - Artigo que demonstra como fazer a configuração do projeto para poder receber um arquivo excel e fazer a leitura de suas linhas, tabelas e folhas.
 * [GitHub do projeto EPPlus.Core](https://github.com/VahidN/EPPlus.Core) - Repositório do projeto EPPlus.Core que demonstra como usar a lib em seus projetos.
